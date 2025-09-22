@@ -2,8 +2,6 @@
 
 **If you have a lot of information to display on your site, why don't you use my accordion menu**
 
-![viewfinal](https://user-images.githubusercontent.com/109727844/204102879-086fee63-9bda-43b2-a1aa-49879c3f2d39.jpg)
-
 ![Image](https://github.com/user-attachments/assets/e8572126-8a18-441c-99a4-cfe82886422a)
 
 - [Demo Project](https://fatemeh-hashemzadeh.github.io/firsttrick/)
