@@ -4,7 +4,7 @@
 
 ![viewfinal](https://user-images.githubusercontent.com/109727844/204102879-086fee63-9bda-43b2-a1aa-49879c3f2d39.jpg)
 
-![view final](https://user-images.githubusercontent.com/109727844/204102930-fac80657-4d16-4816-b476-a88e984abefe.jpg)
+![view final](https://github.com/user-attachments/assets/e8572126-8a18-441c-99a4-cfe82886422a)
 
 - [Demo Project](https://fatemeh-hashemzadeh.github.io/firsttrick/)
 
